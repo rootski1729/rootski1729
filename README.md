@@ -46,11 +46,16 @@ if __name__ == "__main__":
 
 # 📊 GitHub 𝗦𝘁𝗮𝘁𝘀:
 
-<div align="center">
-  
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=rahuljoshi1729&show_icons=true&theme=dracula)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rootski1729&show_icons=true&theme=dracula" alt="xiaoluoboding's github stats"/>
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=rootski1729&bg_color=30,4754eb,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&icon_color=fff" alt="Additional Stats"/>
+    </td>
+  </tr>
+</table>
 
 # ⚡My Tech Stack:
 
