@@ -25,7 +25,7 @@ def main():
         role="Backend developer in Django and Python",
         languages_spoken=["hi_IN", "en_US"],
         learning="DevOps",
-        fun_fact="I'm passionate about design and systems architecture"
+        fun_fact="I'm passionate about design and develop Idea's into REALITY!"
     )
     
     Rootski.say_hello()
