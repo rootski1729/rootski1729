@@ -45,17 +45,18 @@ if __name__ == "__main__":
 </div>
 
 # 📊 GitHub 𝗦𝘁𝗮𝘁𝘀:
-
+<div align="center">
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=rootski1729&show_icons=true&theme=dracula" alt="xiaoluoboding's github stats"/>
     </td>
     <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=rootski1729&bg_color=30,4754eb,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&icon_color=fff" alt="Additional Stats"/>
+        <img src="https://stats.quine.sh/rootski1729/github?theme=dark&size=small" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
+</div>
 
 # ⚡My Tech Stack:
 
