@@ -1,6 +1,3 @@
-[media pointer="file-service://file-CiTjnTuy5UrEp3Q6SN4cpN"]
-
-
 ```python
 class Rootski:
     def __init__(self, name, role, languages_spoken, learning, fun_fact):
@@ -45,20 +42,6 @@ if __name__ == "__main__":
 
 </div>
 
-# 📊 GitHub 𝗦𝘁𝗮𝘁𝘀:
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rootski1729&show_icons=true&theme=dracula" alt="xiaoluoboding's github stats"/>
-    </td>
-    <td align="right">
-        <img src="https://stats.quine.sh/rootski1729/github?theme=dark&size=small" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
-</div>
-
 # ⚡My Tech Stack:
 
 <div align="center">
@@ -75,6 +58,9 @@ if __name__ == "__main__":
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2337B24D.svg?style=flat&logo=fastapi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white)
+
   
 </div>
 
