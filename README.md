@@ -20,9 +20,9 @@ class Rootski:
 def main():
     me = Rootski(
         name="Rahul Joshi",
-        role="Backend developer in Django and Python",
+        role="Backend developer in Django, Node.js, Flask and FastAPI",
         languages_spoken=["hi_IN", "en_US"],
-        learning="DevOps",
+        learning="DevOps and Cloud Tools",
         fun_fact="I'm passionate about design and develop Idea's into REALITY!"
     )
     
