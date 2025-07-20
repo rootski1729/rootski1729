@@ -63,8 +63,3 @@ if __name__ == "__main__":
 
   
 </div>
-
-this is my readmemd
-
-i want to remove this stact thing 
-and want something that highlights my good things not my less contributions
